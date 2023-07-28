@@ -11,4 +11,4 @@ function MainNavigation(){
         </div>
     )
 }
-export default MainNavigationgit
+export default MainNavigation
